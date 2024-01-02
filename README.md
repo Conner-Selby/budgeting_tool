@@ -5,8 +5,8 @@ If a user is looking to identify how much they are spending on subscription serv
 
 **Running the program:**
 
-The full project source code has been uploaded here. In order to use the project in a purely standalone functional fashion you only require the compiled files (Stored in: out\production\budgeting_tool)
-Once you have located/downloaded the budgeting_tool folder described above: simply run the BudgetingTool.jar file with the latest version of Java (by selecting "Open With -> Java" or via a terminal with the command "java -jar BudgetingTool.jar" when inside the budgeting_tool directory. 
+The full project source code has been uploaded here. In order to use the project in a purely standalone functional fashion you only require the compiled files (Stored in: budgeting_tool\out\production\budgeting_tool)
+Once you have located/downloaded the budgeting_tool folder described above: simply run the BudgetingTool.jar file with the latest version of Java (by selecting "Open With -> Java" or via a terminal with the command "java -jar BudgetingTool.jar" when inside the budgeting_tool directory.
 
 **Usage / Instructions:**
 
