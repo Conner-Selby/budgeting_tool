@@ -10,9 +10,9 @@ Once you have located/downloaded the budgeting_tool folder described above: simp
 
 **Usage / Instructions:**
 
-There are three areas to input data: Income, Tax and Expenses. Each of these fields can be left blank if so desired.
+There are three areas to input data: Income, Tax and Expenses. Each of these areas can be left blank if so desired.
 
-•	Income – Single Field (Should be a whole number without additional formatting or symbols e.g. 30000, 24200, 513204, …)
+•	Income – Text Field (Should be a whole number without additional formatting or symbols e.g. 30000, 24200, 513204, …)
 
 •	Tax – Table (Each tax band / row of data inside the table will apply the specified tax rate to any income between the upper and lower fields. All values should be positive whole numbers)
 
